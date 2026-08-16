@@ -1,4 +1,4 @@
-from utils import square, is_even, celcius_to_fahrenheit
+from utils import square, is_even, celsius_to_fahrenheit
 
 number = int(input("Enter a number: "))
 
@@ -9,4 +9,4 @@ if is_even(number):
 else:
     print("The number is odd.")
 
-print("Fahrenheit equivalent:", celcius_to_fahrenheit(number))
+print("Fahrenheit equivalent:", celsius_to_fahrenheit(number))
