@@ -8,3 +8,9 @@ def is_even(n):
 def celsius_to_fahrenheit(c):
     return (c * 9/5) + 32
 EOF
+
+def greet(name):
+    return f"Hello, {name}! Welcome to My Python Lab Project."
+
+def greet(name):
+    return f"Hello, {name}! Welcome to My Python Lab Project."
